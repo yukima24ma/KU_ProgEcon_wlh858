@@ -1,4 +1,4 @@
-# [cat]
+# [University of Copenhagen Programming for Economists Final Submission]
 
 **Group members:**
 - Yuki Matsushima (wlh858)
